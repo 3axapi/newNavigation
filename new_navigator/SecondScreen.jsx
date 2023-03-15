@@ -2,7 +2,7 @@ import { View, Text, StyleSheet } from "react-native";
 
 function SecondScreen() {
  return (
-    <Text>rofhwerfhkhkhkhi</Text>
+    <Text>Welcome to the Second Screen Text</Text>
  )
 }
 
